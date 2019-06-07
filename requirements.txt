@@ -1,4 +1,5 @@
 networkx
 matplotlib
+python-graphviz
 pydot
 
