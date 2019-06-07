@@ -1,5 +1,4 @@
 networkx
 matplotlib
-pylab
 pydot
-numpy
+
