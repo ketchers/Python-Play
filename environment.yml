@@ -1,0 +1,11 @@
+name: cyb201
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - sys
+  - queue
+  - networkx
+  - pydot
+  - random
